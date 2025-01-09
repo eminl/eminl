@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emin</h1>
 - 📫 How to reach me: emingevorgian.main@gmail.com
 
-<h2 align="left">Latest hobby (pet project): <a href="https://chordsme.com" target="_blank">Chordsme</a></h2>
-<p align="justify">Please note that due to the nature of the hosting service, the site may experience a brief delay in loading if it hasn't received recent requests. Don't worry if it's not available at first; simply refresh the page or try again in a few moments. Once the server is active, the site will be fully accessible. Also, this site is a work in progress and serves as a prototype. I appreciate your understanding and hope you enjoy exploring Chordsme your go-to chords library.</p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/emingevorgian" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emingevorgian" height="30" width="40" /></a>
